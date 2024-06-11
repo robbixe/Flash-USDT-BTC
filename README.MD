@@ -1,5 +1,7 @@
 ・ Picture of the program: https://imgur.com/a/FVraesf
 
+## Download Relase!
+🚀 Install --> [Releases]()
 
 ## Important:
 To access the full functionality of the program, download the latest version from the "Release" section.
