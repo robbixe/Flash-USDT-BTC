@@ -1,0 +1,22 @@
+Bitgen 1.6.3 full version 
+
+* No need to download Bitcore.
+* You can use this software with bip32 key.
+* You can easy convert Bip32 key with bip32_key_compressor tool.
+* You can't use software if your balance is 0
+* Just maintain 0.01 BTC in your wallet. 
+Synchronize your wallet with software for broadcasting fake transactions.
+
+* Why balance is required ?
+Blockchain Broadcasting requires transaction fees that will keep your transactions online on the blockchain network.
+Wallet synchronization is required to create fake transactions from your wallet address.
+Your wallet will need to be synchronized otherwise you cannot send fake transactions
+Your transaction will be replaced by fee.
+
+* How many transactions can I send per day?
+You can send unlimited transactions daily.
+But keep in mind that each transaction fee will be charged to your account.
+The transaction fee will be automatically calculated through the blockchain network.
+This fee will be charged from the blockchain network.
+The transaction fee of $ 0.36 Cent will be deducted to your wallet from the blockchain network  (mempool)
+
